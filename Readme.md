@@ -149,7 +149,7 @@ ISC
 
 ## Author
 
-Originally created by alreadybored
+Originally created by AlreadyBored
 
 ## Note
 
